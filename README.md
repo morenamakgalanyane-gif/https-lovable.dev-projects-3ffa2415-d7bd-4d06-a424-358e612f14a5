@@ -1,1 +1,0 @@
-# https-lovable.dev-projects-3ffa2415-d7bd-4d06-a424-358e612f14a5
