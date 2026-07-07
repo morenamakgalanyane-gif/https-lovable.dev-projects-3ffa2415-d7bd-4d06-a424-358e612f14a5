@@ -1,7 +1,8 @@
 {
-  "name": "lovable-project",
+  "name": "lovable-project-3ffa2415",
   "version": "1.0.0",
   "description": "A Lovable project",
+  "projectId": "3ffa2415-d7bd-4d06-a424-358e612f14a5",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -9,7 +10,10 @@
     "dev": "node --watch index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "lovable",
+    "project"
+  ],
   "author": "morenamakgalanyane-gif",
   "license": "MIT",
   "dependencies": {}
