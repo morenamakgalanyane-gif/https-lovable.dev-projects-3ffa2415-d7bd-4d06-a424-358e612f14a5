@@ -1,0 +1,19 @@
+{
+  "project": {
+    "id": "3ffa2415-d7bd-4d06-a424-358e612f14a5",
+    "name": "Lovable Project",
+    "description": "A Node.js project created with Lovable",
+    "version": "1.0.0",
+    "author": "morenamakgalanyane-gif",
+    "created": "2026-07-07",
+    "repository": {
+      "url": "https://github.com/morenamakgalanyane-gif/https-lovable.dev-projects-3ffa2415-d7bd-4d06-a424-358e612f14a5",
+      "branch": "main"
+    },
+    "scripts": {
+      "start": "node index.js",
+      "dev": "node --watch index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    }
+  }
+}
